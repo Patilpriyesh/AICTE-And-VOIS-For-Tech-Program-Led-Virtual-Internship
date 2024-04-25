@@ -1,7 +1,7 @@
 # AICTE-And-VOIS-For-Tech-Program-Led-Virtual-Internship
 *Data Analytics and Power Bi*.
 
-*Summary*
+*Summary*:- 
 I honed my data analysis and visualization skills through a virtual internship program.  I tackled two projects, one focusing on retail sales insights and another analyzing crop production data.
 
 *Projects:-
