@@ -1,6 +1,7 @@
 # AICTE-And-VOIS-For-Tech-Program-Led-Virtual-Internship
-*Data Analytics and Power Bi* 
-_Summary_
+*Data Analytics and Power Bi*.
+
+*Summary*
 I honed my data analysis and visualization skills through a virtual internship program.  I tackled two projects, one focusing on retail sales insights and another analyzing crop production data.
 
 *Projects:-
@@ -15,6 +16,7 @@ Identified patterns, disparities, and areas for improvement in agricultural prac
 Developed a comprehensive Power BI dashboard featuring pie charts, stacked bar charts, and donut charts for data visualization.
 
 *Skills Developed*
+
 Data analysis and visualization.
 Proficiency in Python libraries (pandas, NumPy, matplotlib, Seaborn).
 Experience with Power BI for data exploration and presentation.
