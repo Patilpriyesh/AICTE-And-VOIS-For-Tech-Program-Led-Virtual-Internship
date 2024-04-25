@@ -2,6 +2,7 @@
 *Data Analytics and Power Bi* 
 _Summary_
 I honed my data analysis and visualization skills through a virtual internship program.  I tackled two projects, one focusing on retail sales insights and another analyzing crop production data.
+
 *Projects:-
 1) Retail Revelations: Navigating Superstore Insights (Python, Jupyter Notebook):
 Leveraged Python libraries (pandas, NumPy, matplotlib, Seaborn) to analyze a retail superstore's sales data.
